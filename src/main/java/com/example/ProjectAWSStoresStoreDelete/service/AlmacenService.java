@@ -1,7 +1,7 @@
-package main.java.com.example.ProjectAWSStoresStoreDelete.service;
+package com.example.ProjectAWSStoresStoreDelete.service;
 
-import com.example.eliminaralmacen.model.Almacen;
-import com.example.eliminaralmacen.repository.AlmacenRepository;
+import com.example.ProjectAWSStoresStoreDelete.model.Almacen;
+import com.example.ProjectAWSStoresStoreDelete.repository.AlmacenRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
